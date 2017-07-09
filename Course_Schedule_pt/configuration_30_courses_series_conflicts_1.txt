@@ -1,0 +1,701 @@
+##TIME
+
+#start
+1 8:00~8:55
+1 9:10~10:05
+1 10:20~11:15
+1 11:30~12:25
+1 12:40~13:35
+1 13:50~14:45
+1 15:00~15:55
+1 16:10~17:05
+1 17:20~18:15
+#end
+
+##CLASSROOM
+
+#start
+room_name =DL-1
+room_id =1
+seats =50
+type = 0
+#end
+
+#start
+room_name =DL-2
+room_id =2
+seats =50
+type = 0
+#end
+
+#start
+room_name =DL-3
+room_id =3
+seats =50
+type = 0
+#end
+
+#start
+room_name =DL-4
+room_id =4
+seats =50
+type = 0
+#end
+
+#start
+room_name =DL-5
+room_id =5
+seats =50
+type = 0
+#end
+
+#start
+room_name =DL-6
+room_id =6
+seats =50
+type = 0
+#end
+
+#start
+room_name =DL-7
+room_id =7
+seats =50
+type = 0
+#end
+
+#start
+room_name =DL-8
+room_id =8
+seats =50
+type = 0
+#end
+
+#start
+room_name =DL-9
+room_id =9
+seats =50
+type = 0
+#end
+
+#start
+room_name =DL-10
+room_id =10
+seats =50
+type = 0
+#end
+
+#start
+room_name =DL-11
+room_id =11
+seats =50
+type = 0
+#end
+
+#start
+room_name =DL-12
+room_id =12
+seats =50
+type = 0
+#end
+
+#start
+room_name =DL-13
+room_id =13
+seats =50
+type = 0
+#end
+
+#start
+room_name =DL-14
+room_id =14
+seats =50
+type = 0
+#end
+
+#start
+room_name =DL-15
+room_id =15
+seats =50
+type = 0
+#end
+
+#start
+room_name =DL-16
+room_id =16
+seats =50
+type = 0
+#end
+
+#start
+room_name =DL-17
+room_id =17
+seats =50
+type = 0
+#end
+
+#start
+room_name =DL-18
+room_id =18
+seats =50
+type = 0
+#end
+
+#start
+room_name =DL-19
+room_id =19
+seats =50
+type = 0
+#end
+
+#start
+room_name =DL-20
+room_id =20
+seats =50
+type = 0
+#end
+
+#start
+room_name =DL-21
+room_id =21
+seats =50
+type = 0
+#end
+
+#start
+room_name =DL-22
+room_id =22
+seats =50
+type = 0
+#end
+
+#start
+room_name =DL-23
+room_id =23
+seats =50
+type = 0
+#end
+
+#start
+room_name =DL-24
+room_id =24
+seats =50
+type = 0
+#end
+
+#start
+room_name =DL-25
+room_id =25
+seats =50
+type = 0
+#end
+
+#start
+room_name =DL-26
+room_id =26
+seats =50
+type = 0
+#end
+
+#start
+room_name =DL-27
+room_id =27
+seats =50
+type = 0
+#end
+
+#start
+room_name =DL-28
+room_id =28
+seats =50
+type = 0
+#end
+
+#start
+room_name =DL-29
+room_id =29
+seats =50
+type = 0
+#end
+
+#start
+room_name =DL-30
+room_id =30
+seats =50
+type = 0
+#end
+
+##COURSE
+
+#start
+id =3010
+department =ECE
+time =1
+fix_day = {}
+fix_time =-1
+fix_room =-1
+#end
+
+#start
+id =3011
+department =ECE
+time =1
+fix_day = {}
+fix_time =-1
+fix_room =-1
+#end
+
+#start
+id =3020
+department =ECE
+time =1
+fix_day = {}
+fix_time =2
+fix_room =-1
+#end
+
+#start
+id =3021
+department =ECE
+time =1
+fix_day = {}
+fix_time =-1
+fix_room =-1
+#end
+
+#start
+id =3030
+department =ECE
+time =1
+fix_day = {}
+fix_time =-1
+fix_room =-1
+#end
+
+#start
+id =3031
+department =ECE
+time =1
+fix_day = {}
+fix_time =-1
+fix_room =-1
+#end
+
+#start
+id =3040
+department =ECE
+time =1
+fix_day = {}
+fix_time =-1
+fix_room =-1
+#end
+
+#start
+id =3041
+department =ECE
+time =1
+fix_day = {}
+fix_time =-1
+fix_room =-1
+#end
+
+#start
+id =3050
+department =ECE
+time =1
+fix_day = {}
+fix_time =-1
+fix_room =31
+#end
+
+#start
+id =3060
+department =ECE
+time =1
+fix_day = {}
+fix_time =-1
+fix_room =-1
+#end
+
+#start
+id =5010
+department =ECE
+time =1
+fix_day = {}
+fix_time =-1
+fix_room =-1
+#end
+
+#start
+id =5020
+department =ECE
+time =1
+fix_day = {}
+fix_time =-1
+fix_room =-1
+#end
+
+#start
+id =5030
+department =ECE
+time =1
+fix_day = {}
+fix_time =5
+fix_room =-1
+#end
+
+#start
+id =5040
+department =ECE
+time =1
+fix_day = {}
+fix_time =-1
+fix_room =-1
+#end
+
+#start
+id =5050
+department =ECE
+time =1
+fix_day = {}
+fix_time =-1
+fix_room =-1
+#end
+
+#start
+id =5051
+department =ECE
+time =1
+fix_day = {}
+fix_time =-1
+fix_room =-1
+#end
+
+#start
+id =5060
+department =ECE
+time =1
+fix_day = {}
+fix_time =-1
+fix_room =-1
+#end
+
+##INSTRUCTOR
+
+#start
+name =A
+id =1
+prefertime = {}
+#end
+
+#start
+name =B
+id =2
+prefertime = {}
+#end
+
+#start
+name =C
+id =3
+prefertime = {}
+#end
+
+#start
+name =D
+id =4
+prefertime = {}
+#end
+
+#start
+name =E
+id =5
+prefertime = {}
+#end
+
+#start
+name =F
+id =6
+prefertime = {}
+#end
+
+#start
+name =G
+id =7
+prefertime = {}
+#end
+
+#start
+name =H
+id =8
+prefertime = {}
+#end
+
+#start
+name =I
+id =9
+prefertime = {}
+#end
+
+#start
+name =J
+id =10
+prefertime = {}
+#end
+
+#start
+name =K
+id =11
+prefertime = {}
+#end
+
+#start
+name =L
+id =12
+prefertime = {}
+#end
+
+#start
+name =M
+id =13
+prefertime = {}
+#end
+
+#start
+name =N
+id =14
+prefertime = {}
+#end
+
+#start
+name =O
+id =15
+prefertime = {}
+#end
+
+#start
+name =P
+id =16
+prefertime = {}
+#end
+
+#start
+name =Q
+id =17
+prefertime = {}
+#end
+
+#start
+name =R
+id =18
+prefertime = {}
+#end
+
+#start
+name =S
+id =19
+prefertime = {}
+#end
+
+#start
+name =T
+id =20
+prefertime = {}
+#end
+
+#start
+name =U
+id =21
+prefertime = {}
+#end
+
+#start
+name =V
+id =22
+prefertime = {}
+#end
+
+#start
+name =W
+id =23
+prefertime = {}
+#end
+
+#start
+name =X
+id =24
+prefertime = {}
+#end
+
+#start
+name =Y
+id =25
+prefertime = {}
+#end
+
+#start
+name =Z
+id =26
+prefertime = {}
+#end
+
+#start
+name =AA
+id =27
+prefertime = {}
+#end
+
+#start
+name =AB
+id =28
+prefertime = {}
+#end
+
+#start
+name =AC
+id =29
+prefertime = {}
+#end
+
+#start
+name =AD
+id =30
+prefertime = {}
+#end
+
+##CLASS
+
+#start
+id =30171
+course_id =3010
+professor_id =1
+students_num =20
+type = 0
+#end
+
+#start
+id =30172
+course_id =3020
+professor_id =2
+students_num =20
+type = 0
+#end
+
+#start
+id =30173
+course_id =3030
+professor_id =3
+students_num =30
+type = 0
+#end
+
+#start
+id =30174
+course_id =3040
+professor_id =4
+students_num =30
+type = 0
+#end
+
+#start
+id =30175
+course_id =3050
+professor_id =5
+students_num =30
+type = 0
+#end
+
+#start
+id =30176
+course_id =3060
+professor_id =6
+students_num =30
+type = 0
+#end
+
+#start
+id =30177
+course_id =3011
+professor_id =7
+students_num =30
+type = 0
+#end
+
+#start
+id =30178
+course_id =3021
+professor_id =8
+students_num =30
+type = 0
+#end
+
+#start
+id =30179
+course_id =3031
+professor_id =9
+students_num =30
+type = 0
+#end
+
+#start
+id =30180
+course_id =3041
+professor_id =10
+students_num =30
+type = 0
+#end
+
+#start
+id =30181
+course_id =5051
+professor_id =11
+students_num =30
+type = 0
+#end
+
+#start
+id =30182
+course_id =5010
+professor_id =12
+students_num =30
+type = 0
+#end
+
+#start
+id =30183
+course_id =5020
+professor_id =13
+students_num =30
+type = 0
+#end
+
+#start
+id =30184
+course_id =5030
+professor_id =14
+students_num =30
+type = 0
+#end
+
+#start
+id =30185
+course_id =5040
+professor_id =15
+students_num =30
+type = 0
+#end
+
+#start
+id =30186
+course_id =5050
+professor_id =16
+students_num =30
+type = 0
+#end
+
+#start
+id =30187
+course_id =5060
+professor_id =17
+students_num =30
+type = 0
+#end
+

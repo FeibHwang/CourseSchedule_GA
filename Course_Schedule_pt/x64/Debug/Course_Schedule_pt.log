@@ -1,0 +1,48 @@
+﻿  stdafx.cpp
+  reproduceFun.cpp
+c:\workspace\cpp project\generic\course_schedule_pt_6_18_latest\course_schedule_pt\reproducefun.cpp(26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\workspace\cpp project\generic\course_schedule_pt_6_18_latest\course_schedule_pt\reproducefun.cpp(97): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Schedule.cpp
+c:\workspace\cpp project\generic\course_schedule_pt_6_18_latest\course_schedule_pt\schedule.cpp(65): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\workspace\cpp project\generic\course_schedule_pt_6_18_latest\course_schedule_pt\schedule.cpp(89): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\workspace\cpp project\generic\course_schedule_pt_6_18_latest\course_schedule_pt\schedule.cpp(156): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Professor.cpp
+  Course_Schedule_pt.cpp
+  Course.cpp
+  Classroom.cpp
+  Classes.cpp
+  Population.cpp
+c:\workspace\cpp project\generic\course_schedule_pt_6_18_latest\course_schedule_pt\population.cpp(35): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\workspace\cpp project\generic\course_schedule_pt_6_18_latest\course_schedule_pt\population.cpp(325): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\workspace\cpp project\generic\course_schedule_pt_6_18_latest\course_schedule_pt\population.cpp(565): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\workspace\cpp project\generic\course_schedule_pt_6_18_latest\course_schedule_pt\population.cpp(573): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\workspace\cpp project\generic\course_schedule_pt_6_18_latest\course_schedule_pt\population.cpp(584): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\workspace\cpp project\generic\course_schedule_pt_6_18_latest\course_schedule_pt\population.cpp(618): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\workspace\cpp project\generic\course_schedule_pt_6_18_latest\course_schedule_pt\population.cpp(666): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\workspace\cpp project\generic\course_schedule_pt_6_18_latest\course_schedule_pt\population.cpp(723): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\workspace\cpp project\generic\course_schedule_pt_6_18_latest\course_schedule_pt\population.cpp(866): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\workspace\cpp project\generic\course_schedule_pt_6_18_latest\course_schedule_pt\population.cpp(868): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\workspace\cpp project\generic\course_schedule_pt_6_18_latest\course_schedule_pt\population.cpp(870): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\workspace\cpp project\generic\course_schedule_pt_6_18_latest\course_schedule_pt\population.cpp(882): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\workspace\cpp project\generic\course_schedule_pt_6_18_latest\course_schedule_pt\population.cpp(896): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\workspace\cpp project\generic\course_schedule_pt_6_18_latest\course_schedule_pt\population.cpp(899): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\workspace\cpp project\generic\course_schedule_pt_6_18_latest\course_schedule_pt\population.cpp(909): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\workspace\cpp project\generic\course_schedule_pt_6_18_latest\course_schedule_pt\population.cpp(911): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\workspace\cpp project\generic\course_schedule_pt_6_18_latest\course_schedule_pt\population.cpp(928): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\workspace\cpp project\generic\course_schedule_pt_6_18_latest\course_schedule_pt\population.cpp(989): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\workspace\cpp project\generic\course_schedule_pt_6_18_latest\course_schedule_pt\population.cpp(997): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\workspace\cpp project\generic\course_schedule_pt_6_18_latest\course_schedule_pt\population.cpp(1129): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\workspace\cpp project\generic\course_schedule_pt_6_18_latest\course_schedule_pt\population.cpp(1137): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+  Interaction.cpp
+c:\workspace\cpp project\generic\course_schedule_pt_6_18_latest\course_schedule_pt\interaction.cpp(39): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\workspace\cpp project\generic\course_schedule_pt_6_18_latest\course_schedule_pt\interaction.cpp(53): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+c:\workspace\cpp project\generic\course_schedule_pt_6_18_latest\course_schedule_pt\interaction.cpp(117): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\workspace\cpp project\generic\course_schedule_pt_6_18_latest\course_schedule_pt\interaction.cpp(127): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\workspace\cpp project\generic\course_schedule_pt_6_18_latest\course_schedule_pt\interaction.cpp(147): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\workspace\cpp project\generic\course_schedule_pt_6_18_latest\course_schedule_pt\interaction.cpp(495): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Course_Class.cpp
+  Generating Code...
+  Course_Schedule_pt.vcxproj -> C:\workspace\Cpp project\Generic\Course_Schedule_pt_6_18_latest\x64\Debug\Course_Schedule_pt.exe
+  Course_Schedule_pt.vcxproj -> C:\workspace\Cpp project\Generic\Course_Schedule_pt_6_18_latest\x64\Debug\Course_Schedule_pt.pdb (Partial PDB)

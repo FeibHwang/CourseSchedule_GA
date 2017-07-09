@@ -1,0 +1,83 @@
+DL206
+C2C##9
+C2P##7
+splitline
+Bolz Hall 103
+C1B##12
+C1E##10
+C2S##11
+splitline
+Hitchcock Hall 001
+C1Q##4
+C2B##3
+C3J##9
+C3L##10
+splitline
+Smith Lab 223
+C1D##5
+C1H##12
+C1R##4
+C2E##3
+C2J##11
+C2L##10
+C2M##9
+splitline
+DL100
+splitline
+Scott 120
+C1C##3
+C1J##9
+C1T##11
+C2Q##6
+C3H##4
+splitline
+Bolz Hall 113
+C1L##5
+C1M##8
+C2H##9
+C2T##10
+C3C##6
+C3E##7
+C3N##12
+splitline
+Hitchcock Hall 201
+C2K##9
+C3D##4
+C3K##6
+splitline
+Smith Lab 323
+C2D##12
+C2N##5
+C2R##2
+C3B##7
+splitline
+DL122
+C1F##5
+C3F##12
+C3O##11
+splitline
+DL1314
+C1G##6
+C1I##1
+C1P##7
+C1S##10
+C2A##9
+C3A##8
+C3I##5
+C3M##4
+splitline
+DL2550
+C1A##4
+splitline
+DL123
+C1O##8
+C2F##7
+C2G##5
+C2I##1
+C2O##6
+C3G##9
+splitline
+DL693
+C1K##9
+C1N##2
+splitline

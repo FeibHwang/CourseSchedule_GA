@@ -1,0 +1,212 @@
+##TIME
+
+#start
+1 9:10~10:05
+1 9:10~11:15
+1 10:20~11:25
+1 11:30~12:45
+1 13:50~14:55
+1 15:10~15:55
+1 16:10~16:55
+2 9:35~10:55
+2 11:10~12:30
+2 12:45~14:05
+2 14:20~15:40
+2 15:55~17:05
+#end
+
+
+
+
+##INSTRUCTOR
+
+#start
+name = Prof-1
+id = 1
+prefertime = {1,2,3}
+#end
+
+#start
+name = Prof-2
+id = 2
+prefertime = {4,5,6}
+#end
+
+#start
+name = Prof-3
+id = 3
+prefertime = {}
+#end
+
+#start
+name = Prof-4
+id = 4
+prefertime = {}
+#end
+
+#start
+name = Prof-5
+id = 5
+prefertime = {}
+#end
+
+
+##CLASSROOM
+
+#start
+room_name = DL-1
+room_id = 1
+seats = 30
+type = 0
+#end
+
+#start
+room_name = DL-2
+room_id = 2
+seats = 30
+type = 0
+#end
+
+#start
+room_name = DL-3
+room_id = 3
+seats = 30
+type = 0
+#end
+
+#start
+room_name = DL-4
+room_id = 4
+seats = 30
+type = 0
+#end
+
+#start
+room_name = DL-5
+room_id = 5
+seats = 30
+type = 0
+#end
+
+#start
+room_name = DL-6
+room_id = 6
+seats = 30
+type = 1
+#end
+
+
+
+##COURSE
+
+#start
+id = 2020
+school = ECE
+time = 1
+fix_day = {}
+fix_time = -1
+fix_room = 6
+#end
+
+#start
+id = 2050
+school = ECE
+time = 1
+fix_day = {1,3}
+fix_time = 12
+fix_room = -1
+#end
+
+#start
+id = 2060
+school = ECE
+time = 1
+fix_day = {}
+fix_time = -1
+fix_room = -1
+#end
+
+#start
+id = 2300
+school = ECE
+time = 2
+fix_day = {3,5}
+fix_time = -1
+fix_room = -1
+#end
+
+#start
+id = 2560
+school = ECE
+time = 1
+fix_day = {3}
+fix_time = -1
+fix_room = 12
+#end
+
+#start
+id = 3010
+school = ECE
+time = 1
+fix_day = {}
+fix_time = 1
+fix_room = -1
+#end
+
+#start
+id = 3020
+school = ECE
+time = 1
+fix_day = {}
+fix_time = -1
+fix_room = -1
+#end
+
+
+
+
+
+
+
+
+##CLASS
+
+#start
+id = 30101
+course_id = 3010
+professor_id = 1
+students_num = 20
+type = 0
+#end
+
+#start
+id = 50421
+course_id = 5042
+professor_id = 2
+students_num = 20
+type = 0
+#end
+
+#start
+id = 55511
+course_id = 5551
+professor_id = 3
+students_num = 30
+type = 0
+#end
+
+#start
+id = 30102
+course_id = 3010
+professor_id = 4
+students_num = 30
+type = 0
+#end
+
+#start
+id = 30301
+course_id = 3030
+professor_id = 5
+students_num = 30
+type = 0
+#end

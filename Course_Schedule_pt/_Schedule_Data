@@ -1,0 +1,1174 @@
+##TIME
+
+#start
+1 9:10~10:05
+1 9:10~11:15
+1 10:20~11:25
+1 11:30~12:45
+1 13:50~14:55
+1 15:10~15:55
+1 16:10~16:55
+2 9:35~10:55
+2 11:10~12:30
+2 12:45~14:05
+2 14:20~15:40
+2 15:55~17:05
+#end
+
+##PROFESSOR
+
+#start
+name = Prof-1
+id = 1
+prefertime = {}
+#end
+
+#start
+name = Prof-2
+id = 2
+prefertime = {}
+#end
+
+#start
+name = Prof-3
+id = 3
+prefertime = {}
+#end
+
+#start
+name = Prof-4
+id = 4
+prefertime = {}
+#end
+
+#start
+name = Prof-5
+id = 5
+prefertime = {}
+#end
+
+#start
+name = Prof-6
+id = 6
+prefertime = {}
+#end
+
+#start
+name = Prof-7
+id = 7
+prefertime = {}
+#end
+
+#start
+name = Prof-8
+id = 8
+prefertime = {}
+#end
+
+#start
+name = Prof-9
+id = 9
+prefertime = {}
+#end
+
+#start
+name = Prof-10
+id = 10
+prefertime = {}
+#end
+
+#start
+name = Prof-11
+id = 11
+prefertime = {}
+#end
+
+#start
+name = Prof-12
+id = 12
+prefertime = {}
+#end
+
+#start
+name = Prof-13
+id = 13
+prefertime = {}
+#end
+
+#start
+name = Prof-14
+id = 14
+prefertime = {}
+#end
+
+#start
+name = Prof-15
+id = 15
+prefertime = {}
+#end
+
+#start
+name = Prof-16
+id = 16
+prefertime = {}
+#end
+
+#start
+name = Prof-17
+id = 17
+prefertime = {1,2,3,8,8,9}
+#end
+
+#start
+name = Prof-18
+id = 18
+prefertime = {}
+#end
+
+#start
+name = Prof-19
+id = 19
+prefertime = {}
+#end
+
+#start
+name = Prof-20
+id = 20
+prefertime = {}
+#end
+
+#start
+name = Prof-21
+id = 21
+prefertime = {}
+#end
+
+#start
+name = Prof-22
+id = 22
+prefertime = {1,2,3,8,8,8}
+#end
+
+#start
+name = Prof-23
+id = 23
+prefertime = {}
+#end
+
+#start
+name = Prof-24
+id = 24
+prefertime = {}
+#end
+
+#start
+name = Prof-25
+id = 25
+prefertime = {}
+#end
+
+#start
+name = Prof-26
+id = 26
+prefertime = {}
+#end
+
+#start
+name = Prof-27
+id = 27
+prefertime = {}
+#end
+
+#start
+name = Prof-28
+id = 28
+prefertime = {}
+#end
+
+#start
+name = Prof-29
+id = 29
+prefertime = {}
+#end
+
+#start
+name = Prof-30
+id = 30
+prefertime = {}
+#end
+
+#start
+name = Prof-31
+id = 31
+prefertime = {}
+#end
+
+#start
+name = Prof-32
+id = 32
+prefertime = {1,2,3,8,9,11}
+#end
+
+#start
+name = Prof-33
+id = 33
+prefertime = {}
+#end
+
+#start
+name = Prof-34
+id = 34
+prefertime = {}
+#end
+
+#start
+name = Prof-35
+id = 35
+prefertime = {}
+#end
+
+#start
+name = Prof-36
+id = 36
+prefertime = {}
+#end
+
+#start
+name = Prof-37
+id = 37
+prefertime = {}
+#end
+
+#start
+name = Prof-38
+id = 38
+prefertime = {}
+#end
+
+#start
+name = Prof-39
+id = 39
+prefertime = {}
+#end
+
+#start
+name = Prof-40
+id = 40
+prefertime = {}
+#end
+
+#start
+name = Prof-41
+id = 41
+prefertime = {}
+#end
+
+#start
+name = Prof-42
+id = 42
+prefertime = {}
+#end
+
+#start
+name = Prof-43
+id = 43
+prefertime = {5, 6, 7,12,12,12}
+#end
+
+#start
+name = Prof-44
+id = 44
+prefertime = {}
+#end
+
+#start
+name = Prof-45
+id = 45
+prefertime = {}
+#end
+
+
+
+
+
+
+
+##COURSE
+
+#start
+id = 2020
+school = ECE
+time = 1
+#end
+
+#start
+id = 2050
+school = ECE
+time = 1
+#end
+
+#start
+id = 2060
+school = ECE
+time = 1
+#end
+
+#start
+id = 2300
+school = ECE
+time = 2
+#end
+
+#start
+id = 2560
+school = ECE
+time = 1
+#end
+
+#start
+id = 3010
+school = ECE
+time = 1
+#end
+
+#start
+id = 3020
+school = ECE
+time = 1
+#end
+
+#start
+id = 3030
+school = ECE
+time = 1
+#end
+
+#start
+id = 3040
+school = ECE
+time = 1
+#end
+
+#start
+id = 3050
+school = ECE
+time = 1
+#end
+
+#start
+id = 3551
+school = ECE
+time = 1
+#end
+
+#start
+id = 3561
+school = ECE
+time = 1
+#end
+
+#start
+id = 3900
+school = ECE
+time = 2
+#end
+
+#start
+id = 4900
+school = ECE
+time = 2
+#end
+
+#start
+id = 5000
+school = ECE
+time = 1
+#end
+
+#start
+id = 5010
+school = ECE
+time = 1
+#end
+
+#start
+id = 5017
+school = ECE
+time = 1
+#end
+
+#start
+id = 5020
+school = ECE
+time = 1
+#end
+
+#start
+id = 5021
+school = ECE
+time = 2
+#end
+
+#start
+id = 5025
+school = ECE
+time = 1
+#end
+
+#start
+id = 5037
+school = ECE
+time = 1
+#end
+
+#start
+id = 5042
+school = ECE
+time = 1
+#end
+
+#start
+id = 5070
+school = ECE
+time = 1
+#end
+
+#start
+id = 5132
+school = ECE
+time = 1
+#end
+
+#start
+id = 5200
+school = ECE
+time = 1
+#end
+
+#start
+id = 5362
+school = ECE
+time = 1
+#end
+
+#start
+id = 5400
+school = ECE
+time = 2
+#end
+
+#start
+id = 5460
+school = ECE
+time = 1
+#end
+
+#start
+id = 5462
+school = ECE
+time = 1
+#end
+
+#start
+id = 5463
+school = ECE
+time = 1
+#end
+
+#start
+id = 5530
+school = ECE
+time = 1
+#end
+
+#start
+id = 5551
+school = ECE
+time = 1
+#end
+
+#start
+id = 5759
+school = ECE
+time = 1
+#end
+
+#start
+id = 5833
+school = ECE
+time = 1
+#end
+
+#start
+id = 6001
+school = ECE
+time = 2
+#end
+
+#start
+id = 6010
+school = ECE
+time = 2
+#end
+
+#start
+id = 6070
+school = ECE
+time = 2
+#end
+
+#start
+id = 6101
+school = ECE
+time = 2
+#end
+
+#start
+id = 6541
+school = ECE
+time = 2
+#end
+
+#start
+id = 6754
+school = ECE
+time = 2
+#end
+
+#start
+id = 7003
+school = ECE
+time = 2
+#end
+
+#start
+id = 7005
+school = ECE
+time = 2
+#end
+
+#start
+id = 7855
+school = ECE
+time = 2
+#end
+
+#start
+id = 7868
+school = ECE
+time = 2
+#end
+
+
+
+
+
+
+
+##CLASS
+
+#start
+id = 30101
+course_id = 3010
+professor_id = 1
+students_num = 20
+type = 0
+#end
+
+#start
+id = 50421
+course_id = 5042
+professor_id = 2
+students_num = 20
+type = 0
+#end
+
+#start
+id = 55511
+course_id = 5551
+professor_id = 3
+students_num = 30
+type = 0
+#end
+
+#start
+id = 30102
+course_id = 3010
+professor_id = 4
+students_num = 30
+type = 0
+#end
+
+#start
+id = 30301
+course_id = 3030
+professor_id = 5
+students_num = 30
+type = 0
+#end
+
+#start
+id = 30501
+course_id = 3050
+professor_id = 6
+students_num = 30
+type = 0
+#end
+
+#start
+id = 54631
+course_id = 5463
+professor_id = 7
+students_num = 30
+type = 0
+#end
+
+#start
+id = 30302
+course_id = 3030
+professor_id = 8
+students_num = 30
+type = 0
+#end
+
+#start
+id = 50101
+course_id = 5010
+professor_id = 9
+students_num = 30
+type = 0
+#end
+
+#start
+id = 50701
+course_id = 5070
+professor_id = 10
+students_num = 30
+type = 0
+#end
+
+#start
+id = 20201
+course_id = 2020
+professor_id = 11
+students_num = 30
+type = 0
+#end
+
+#start
+id = 30401
+course_id = 3040
+professor_id = 2
+students_num = 30
+type = 0
+#end
+
+#start
+id = 50001
+course_id = 5000
+professor_id = 12
+students_num = 30
+type = 0
+#end
+
+#start
+id = 50371
+course_id = 5037
+professor_id = 5
+students_num = 30
+type = 0
+#end
+
+#start
+id = 2050
+course_id = 2050
+professor_id = 13
+students_num = 30
+type = 0
+#end
+
+#start
+id = 58331
+course_id = 5833
+professor_id = 8
+students_num = 30
+type = 0
+#end
+
+#start
+id = 30201
+course_id = 3020
+professor_id = 14
+students_num = 30
+type = 0
+#end
+
+#start
+id = 35611
+course_id = 3561
+professor_id = 15
+students_num = 30
+type = 0
+#end
+
+#start
+id = 50251
+course_id = 5025
+professor_id = 16
+students_num = 30
+type = 0
+#end
+
+#start
+id = 51321
+course_id = 5132
+professor_id = 17
+students_num = 30
+type = 0
+#end
+
+#start
+id = 57591
+course_id = 5759
+professor_id = 18
+students_num = 30
+type = 0
+#end
+
+#start
+id = 30202
+course_id = 3020
+professor_id = 14
+students_num = 30
+type = 0
+#end
+
+#start
+id = 30402
+course_id = 3040
+professor_id = 19
+students_num = 30
+type = 0
+#end
+
+#start
+id = 35511
+course_id = 3551
+professor_id = 20
+students_num = 30
+type = 0
+#end
+
+#start
+id = 50171
+course_id = 5017
+professor_id = 21
+students_num = 30
+type = 0
+#end
+
+#start
+id = 53621
+course_id = 5362
+professor_id = 22
+students_num = 30
+type = 0
+#end
+
+#start
+id = 20601
+course_id = 2060
+professor_id = 23
+students_num = 30
+type = 0
+#end
+
+#start
+id = 25601
+course_id = 2560
+professor_id = 24
+students_num = 30
+type = 0
+#end
+
+#start
+id = 30502
+course_id = 3050
+professor_id = 25
+students_num = 30
+type = 0
+#end
+
+#start
+id = 50201
+course_id = 5020
+professor_id = 26
+students_num = 30
+type = 0
+#end
+
+#start
+id = 52001
+course_id = 5200
+professor_id = 27
+students_num = 40
+type = 0
+#end
+
+#start
+id = 55301
+course_id = 5530
+professor_id = 28
+students_num = 40
+type = 0
+#end
+
+#start
+id = 54601
+course_id = 5460
+professor_id = 29
+students_num = 40
+type = 0
+#end
+
+#start
+id = 54621
+course_id = 5462
+professor_id = 15
+students_num = 40
+type = 0
+#end
+
+#start
+id = 65411
+course_id = 6541
+professor_id = 30
+students_num = 20
+type = 0
+#end
+
+#start
+id = 39001
+course_id = 3900
+professor_id = 31
+students_num = 20
+type = 0
+#end
+
+#start
+id = 60101
+course_id = 6010
+professor_id = 32
+students_num = 20
+type = 0
+#end
+
+#start
+id = 70031
+course_id = 7003
+professor_id = 33
+students_num = 20
+type = 0
+#end
+
+#start
+id = 78551
+course_id = 7855
+professor_id = 34
+students_num = 30
+type = 0
+#end
+
+#start
+id = 49001
+course_id = 4900
+professor_id = 35
+students_num = 30
+type = 0
+#end
+
+#start
+id = 67541
+course_id = 6754
+professor_id = 36
+students_num = 30
+type = 0
+#end
+
+#start
+id = 23001
+course_id = 2300
+professor_id = 37
+students_num = 30
+type = 0
+#end
+
+#start
+id = 49002
+course_id = 4900
+professor_id = 38
+students_num = 30
+type = 0
+#end
+
+#start
+id = 60011
+course_id = 6001
+professor_id = 39
+students_num = 30
+type = 0
+#end
+
+#start
+id = 60701
+course_id = 6070
+professor_id = 40
+students_num = 30
+type = 0
+#end
+
+#start
+id = 70051
+course_id = 7005
+professor_id = 41
+students_num = 30
+type = 0
+#end
+
+#start
+id = 23002
+course_id = 2300
+professor_id = 37
+students_num = 30
+type = 0
+#end
+
+#start
+id = 49003
+course_id = 4900
+professor_id = 35
+students_num = 30
+type = 0
+#end
+
+#start
+id = 54001
+course_id = 5400
+professor_id = 42
+students_num = 30
+type = 0
+#end
+
+#start
+id = 61011
+course_id = 6101
+professor_id = 43
+students_num = 30
+type = 0
+#end
+
+#start
+id = 50211
+course_id = 5021
+professor_id = 44
+students_num = 40
+type = 0
+#end
+
+#start
+id = 78681
+course_id = 7868
+professor_id = 45
+students_num = 40
+type = 0
+#end
+
+
+
+
+
+
+
+##CLASSROOM
+
+#start
+room_name = DL-1
+room_id = 1
+seats = 30
+type = 0
+#end
+
+#start
+room_name = DL-2
+room_id = 2
+seats = 30
+type = 0
+#end
+
+#start
+room_name = DL-3
+room_id = 3
+seats = 30
+type = 0
+#end
+
+#start
+room_name = DL-4
+room_id = 4
+seats = 30
+type = 0
+#end
+
+#start
+room_name = DL-5
+room_id = 5
+seats = 30
+type = 0
+#end
+
+#start
+room_name = DL-6
+room_id = 6
+seats = 30
+type = 0
+#end
+
+#start
+room_name = DL-7
+room_id = 7
+seats = 30
+type = 0
+#end
+
+#start
+room_name = DL-8
+room_id = 8
+seats = 30
+type = 0
+#end
+
+#start
+room_name = DL-9
+room_id = 9
+seats = 30
+type = 0
+#end
+
+#start
+room_name = DL-10
+room_id = 10
+seats = 30
+type = 0
+#end
+
+#start
+room_name = DL-11
+room_id = 11
+seats = 30
+type = 0
+#end
+
+#start
+room_name = DL-12
+room_id = 12
+seats = 30
+type = 0
+#end
+
+#start
+room_name = DL-13
+room_id = 13
+seats = 30
+type = 0
+#end
+
+#start
+room_name = DL-14
+room_id = 14
+seats = 30
+type = 0
+#end
+
+#start
+room_name = DL-15
+room_id = 15
+seats = 30
+type = 0
+#end
+
+#start
+room_name = DL-16
+room_id = 16
+seats = 30
+type = 0
+#end
+
+#start
+room_name = DL-17
+room_id = 17
+seats = 30
+type = 0
+#end
+
+#start
+room_name = DL-18
+room_id = 18
+seats = 30
+type = 0
+#end
+
+#start
+room_name = DL-19
+room_id = 19
+seats = 30
+type = 0
+#end
+
+#start
+room_name = DL-20
+room_id = 20
+seats = 30
+type = 0
+#end
+
+#start
+room_name = DL-21
+room_id = 21
+seats = 30
+type = 0
+#end
+
+#start
+room_name = DL-22
+room_id = 22
+seats = 30
+type = 0
+#end
+
+#start
+room_name = DL-23
+room_id = 23
+seats = 30
+type = 0
+#end
+
+#start
+room_name = DL-24
+room_id = 24
+seats = 40
+type = 0
+#end
+
+#start
+room_name = DL-25
+room_id = 25
+seats = 40
+type = 0
+#end
+
+
+
+
+
+
+
